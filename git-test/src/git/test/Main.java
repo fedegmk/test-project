@@ -7,7 +7,6 @@ public class Main {
 		System.out.println("Processing");
 		System.out.println("end");
 		System.out.println("Bye");
-		System.out.println("Bye");
 
 	}
 
