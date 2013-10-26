@@ -6,6 +6,7 @@ public class Main {
 		System.out.println("hello");
 		System.out.println("Processing");
 		System.out.println("end");
+		System.out.println("next");
 	}
 
 }
